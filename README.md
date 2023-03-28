@@ -36,6 +36,4 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{giovannivicentin}/count.svg" /></p> 
 <br></div>
 
-[![giovanni/gitartwork](gitartwork.svg)](https://github.com/giovannivicentin/gitartwork)
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
