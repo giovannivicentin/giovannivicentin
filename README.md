@@ -37,3 +37,5 @@
 <br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+
+[![giovannivicentin/gitartwork](https://github.com/giovannivicentin/gitartwork/blob/main/gitartwork.svg)](https://github.com/giovannivicentin/gitartwork/)
