@@ -1,8 +1,8 @@
 ![background](https://github.com/giovannivicentin/giovannivicentin/assets/78269662/dc905991-0b9a-48fd-9b79-91de32454014)
 
 ## About Me:
-#### 🛠️ Full Stack Developer skilled in React, Next.js, Tailwind on the frontend, and adept with NodeJS, NestJS, TypeScript, and TypeORM on the backend. Experienced in Python, MySQL, VBA, and specialized in delivering Robotic Process Automation (RPA) solutions. A firm believer in agile methodologies and the power of comprehensive documentation. Committed to crafting seamless applications from front to back, ensuring optimal user experiences and robust backend structures.
-#### 🥋 Outside of coding, I'm a dedicated karate enthusiast. Music fuels my soul, especially Brazilian rap. I frequently immerse myself in books, finding wisdom and inspiration in their pages.
+🛠️ Full Stack Developer skilled in React, Next.js, Tailwind on the frontend, and adept with NodeJS, NestJS, TypeScript, and TypeORM on the backend. Experienced in Python, MySQL, VBA, and specialized in delivering Robotic Process Automation (RPA) solutions. A firm believer in agile methodologies and the power of comprehensive documentation. Committed to crafting seamless applications from front to back, ensuring optimal user experiences and robust backend structures. <br/><br/>
+🥋 Outside of coding, I'm a dedicated karate enthusiast. Music fuels my soul, especially Brazilian rap. I frequently immerse myself in books, finding wisdom and inspiration in their pages.
 
 <h3 align="left">Languages and Tools:</h3>
 
