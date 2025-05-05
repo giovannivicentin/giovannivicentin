@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-Software Engineer by day ☼ and learning by night ☾
+Building software by day ☼, building skills by night ☾
 
 Brazilian Software Engineer with +3 years of experience, currently contributing at [Sam’s Club](https://www.google.com/search?q=sams+club&sourceid=chrome&ie=UTF-8&si=APYL9btlBqnnokRD5L6INM8E_sy1u5ZwhtzAxfKz3PBv3UuGm1-OW3lURYLdaNHVjbpJSqbt99MhHs0YwUveDmoA4Vj9kPt0rWlW3vSW595Zs0KlJBoutaI%3D&ictx=1&ved=2ahUKEwj-t4eS6_uMAxUDDrkGHd-DJrwQ_coHegQIJBAB)
 
